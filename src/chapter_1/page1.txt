@@ -1,0 +1,8 @@
+
+Today is September 26, 2021
+This is my first git practice
+and I am happy
+
+1. Create a new project
+2. Create a new package called chapter_1
+3. Create a new text file called page1
